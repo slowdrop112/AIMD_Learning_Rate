@@ -21,7 +21,6 @@ We tested the method on **CIFAR-10** using a custom CNN architecture.
 The graph below demonstrates the AIMD behavior. Notice the **green line (Learning Rate)** forming a sawtooth pattern: it increases to find the optimal step size and drops sharply when instability is detected.
 
 ![AIMD Training Dynamics](results/plots_aimd.png)
-*(Note: Ensure `plots_aimd.png` is in the `results/` folder)*
 
 ## 🧠 Methodology
 
