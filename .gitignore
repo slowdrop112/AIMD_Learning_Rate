@@ -1,0 +1,13 @@
+# Ignora datele (se descarca singure)
+data/
+*.zip
+*.tar.gz
+
+# Ignora cache-ul python
+__pycache__/
+*.pyc
+
+# Ignora fisiere de sistem sau editor
+.DS_Store
+.vscode/
+.idea/
